@@ -6,6 +6,7 @@ body{
   background-position: center;
   height: 250px;
   padding-top: 75px;
+  background-image:url(drukletters.jpg)
 }
 
 .bg-fej h1{
@@ -38,7 +39,18 @@ a {
   margin: 20px auto;
 }
 
+input[type="number"],
+input[type="text"] {
+  margin-top: 0px; 
+  margin-bottom: 15px; 
+  display: block; 
+  margin-left: auto; 
+  margin-right: auto; 
+}
+
 #valasz{
   visibility:hidden;
 }
+
+
 
