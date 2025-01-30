@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Cedarville+Cursive&family=Dancing+Script:wght@400..700&display=swap');
+
 body{
   color: #293647;
 }
@@ -15,6 +17,7 @@ body{
   text-transform: uppercase;
   text-decoration: underline overline;
   font-weight: bold;
+  font-family: "Cedarville Cursive", serif;
 }
 
 .container{
